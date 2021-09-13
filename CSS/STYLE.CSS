@@ -18,3 +18,21 @@ header{
 span{
     background-color: rgb(255, 238, 0);
 }
+
+thead{
+    background-color: rgb(97, 159, 252);
+    font-size: 80%;
+}
+
+.riga1{
+    background-color: rgb(24, 246, 253);
+}
+
+.riga2{
+    background-color: rgb(165, 235, 238);
+}
+
+.riga3{
+    background-color: rgb(24, 246, 253);
+
+}
